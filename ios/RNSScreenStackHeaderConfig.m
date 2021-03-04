@@ -9,7 +9,7 @@
 #import <React/RCTFont.h>
 #import <React-RCTImage/React/RCTImageView.h>
 #import <React-RCTImage/React/RCTResizeMode.h>
-#import <React-RCTImage/React/RCTImageLoader.h
+#import <React-RCTImage/React/RCTImageLoader.h>
 
 // Some RN private method hacking below. Couldn't figure out better way to access image data
 // of a given RCTImageView. See more comments in the code section processing SubviewTypeBackButton
